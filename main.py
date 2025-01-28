@@ -1,1 +1,3 @@
-from src.ML1.config.configuration import main
+from ML1 import logger
+
+logger.info("sadda hak")
